@@ -35,7 +35,6 @@
 
 [+] Electronics Technician
 [+] Full Stack Web Developer
-[+] Technology Enthusiast
 
 ┌──(felje㉿github)-[~]
 └─$ cat /etc/profile
@@ -54,18 +53,7 @@ drwxr-xr-x  mobile-app-development/
 drwxr-xr-x  electronics-repair/
 drwxr-xr-x  hardware-troubleshooting/
 drwxr-xr-x  system-development/
-drwxr-xr-x  automation/
 drwxr-xr-x  problem-solving/
-
-┌──(felje㉿github)-[~]
-└─$ cat /etc/mission
-
-[MISSION]
-
-01. Transform ideas into functional solutions.
-02. Use technology to solve real-world problems.
-03. Build reliable and efficient systems.
-04. Connect hardware with software.
 
 ┌──(felje㉿github)-[~]
 └─$ exit
